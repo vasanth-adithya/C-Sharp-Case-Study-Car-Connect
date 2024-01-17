@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnectUnitTests\\CarConnectUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnectUnitTests\\CarConnectUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnectUnitTests\\CarConnectUnitTests.csproj",
+        "projectName": "CarConnectUnitTests",
+        "projectPath": "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnectUnitTests\\CarConnectUnitTests.csproj",
+        "packagesPath": "C:\\Users\\vamsh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnectUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vamsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnect\\CarConnect.csproj": {
+                "projectPath": "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnect\\CarConnect.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnect\\CarConnect.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnect\\CarConnect.csproj",
+        "projectName": "CarConnect",
+        "projectPath": "C:\\Users\\vamsh\\Desktop\\Training Exercises\\Geetha\\CarConnect\\CarConnect Case Study\\CarConnect\\CarConnect.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
