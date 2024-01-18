@@ -1,7 +1,5 @@
 create database CarConnect;
 
-drop database CarConnect
-
 use CarConnect;
 
 -- Customer Table
